@@ -1,4 +1,4 @@
-# Exercícios de Assembly RISC-V
+# Exercícios de C++
 
 Coleção de 15 exercícios em C++ focados nos fundamentos de programação.
 
